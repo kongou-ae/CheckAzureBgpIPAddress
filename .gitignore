@@ -5,7 +5,7 @@
 
 # Added by manual
 
-Properties/*
+*/Properties/
 
 # dotenv files
 .env
